@@ -4,7 +4,7 @@
     "url": "https://suc.sie.gob.do/",
     "icon": "https://favicons.githubusercontent.com/suc.sie.gob.do",
     "slug": "suc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 313,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "Portal SIE Ext",
