@@ -4,19 +4,19 @@
     "url": "https://suc.sie.gob.do/",
     "icon": "https://favicons.githubusercontent.com/suc.sie.gob.do",
     "slug": "suc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 7020,
-    "timeWeek": 3217,
-    "timeMonth": 1241,
-    "timeYear": 1241,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1215,
+    "timeDay": 5685,
+    "timeWeek": 2956,
+    "timeMonth": 1215,
+    "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 4
     }
   },
   {
