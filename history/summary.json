@@ -4,19 +4,19 @@
     "url": "https://suc.sie.gob.do/",
     "icon": "https://favicons.githubusercontent.com/suc.sie.gob.do",
     "slug": "suc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 141,
-    "timeWeek": 2529,
-    "timeMonth": 1136,
-    "timeYear": 1136,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1110,
+    "timeDay": 140,
+    "timeWeek": 2358,
+    "timeMonth": 1110,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 7
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/portal.sie.gov.do",
     "slug": "portal-sie-ext",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "91.74%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.64%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 272,
     "timeDay": 131,
     "timeWeek": 221,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-06-17": 119
+      "2022-06-17": 126
     }
   }
 ]
