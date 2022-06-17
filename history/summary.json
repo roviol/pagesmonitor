@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/suc.sie.gob.do",
     "slug": "suc",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1193,
-    "timeDay": 393,
-    "timeWeek": 2746,
-    "timeMonth": 1193,
-    "timeYear": 1193,
-    "dailyMinutesDown": {
-      "2022-06-16": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1163,
+    "timeDay": 302,
+    "timeWeek": 2726,
+    "timeMonth": 1163,
+    "timeYear": 1163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal SIE Ext",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 394,
-    "timeWeek": 246,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 272,
+    "timeDay": 131,
+    "timeWeek": 221,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   }
 ]
