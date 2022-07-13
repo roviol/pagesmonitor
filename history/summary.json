@@ -4,7 +4,7 @@
     "url": "https://suc.sie.gob.do/",
     "icon": "https://favicons.githubusercontent.com/suc.sie.gob.do",
     "slug": "suc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1233,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-20": 77,
       "2022-06-19": 22
     }
@@ -26,11 +27,11 @@
     "icon": "https://favicons.githubusercontent.com/portal.sie.gov.do",
     "slug": "portal-sie-ext",
     "status": "up",
-    "uptime": "94.30%",
+    "uptime": "94.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.73%",
-    "uptimeYear": "94.30%",
+    "uptimeYear": "94.36%",
     "time": 280,
     "timeDay": 230,
     "timeWeek": 258,
